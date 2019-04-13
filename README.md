@@ -11,5 +11,3 @@ Now we have 3 lines in total, we can use the similar strategy when we are adding
 
 There are many other details to consider, for example, it's far more easy to do when you add the overlapping points together(For instance, there are 3 points on same location(2,3), what you do now is only save one(2,3) point and give it an attribute(unit = 3) ). 
 The rest of the details are in the code. 
-If there is any problem or potential issue, let me know pls.
-Tx
