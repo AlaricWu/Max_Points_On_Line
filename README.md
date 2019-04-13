@@ -3,7 +3,6 @@
 The key of this question is about how the new line is considerated.
 Let' s begin with only two points, obviously in this case, the maximum points is 2, and there is at most 1 line.
 If we start by adding the third point to the set, we can see that:
-![image](https://assets.leetcode.com/users/yxw1242/image_1555194876.png)
 there are two cases, the first case is that this point is on the previous line(one of),
 in this case, the number of points on that previous line is increased by adding this 
 new point on it.
